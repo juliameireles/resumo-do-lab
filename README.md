@@ -29,3 +29,14 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 → Quantos mais 9s, menos tempo de inatividade 
 
 → LRS,GRS,ZRS → Quanto mais você replica, menos tempo de inatividade
+
+
+**LAB: Configurando uma instância de Banco de Dados na Azure**
+
+→ Tipo de imagem da máquina virtual 
+
+→ tudo que você for criar é sua responsabilidade ( vai ser exporto a internet, o tamanho, segurança)
+
+→Para você criar um banco de daods, é preciso criar um servidor primeiro
+
+→ Qual o modelo de redundância que você deseja para o seu banco de dados?
